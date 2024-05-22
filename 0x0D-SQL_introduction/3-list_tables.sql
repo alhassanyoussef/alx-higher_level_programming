@@ -1,3 +1,4 @@
--- to show all certain database tables.
-SHOW TABLES IN mysql;
+-- to show all certain database tables;
+USE mysql;
+SHOW TABLES;
 
